@@ -1,24 +1,24 @@
-<h3 align="center">
+<h3>
   经常使用的编程语言
 </h3>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?&theme=dark&i=html,css,sass,js,ts,jquery,svg"/>
 </p>
 
-<h3 align="center">
+<h3>
   我掌握的框架
 </h3>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?&theme=dark&i=vue"/>
 </p>
 
-<h3 align="center">
+<h3>
   我的工作平台
 </h3>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?&theme=dark&i=github"/>
 </p>
 
