@@ -7,6 +7,14 @@
 </p>
 
 <h3 align="center">
+  我掌握的框架
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?&theme=dark&i=vue"/>
+</p>
+
+<h3 align="center">
   我的工作平台
 </h3>
 
