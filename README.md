@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?&theme=dark&i=github,discord,stackoverflow,ai,ps,pr"/>
+  <img src="https://skillicons.dev/icons?&theme=dark&i=github"/>
 </p>
 
 <table>
