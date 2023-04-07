@@ -1,6 +1,10 @@
 <h3 align="center">
-  我的社交媒体
+  经常使用的编程语言
 </h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?&theme=dark&i=html,css,sass,js,ts,jquery,svg"/>
+</p>
 
 <h3 align="center">
   我的工作平台
