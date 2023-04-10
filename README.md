@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/zhenyingjs/zhenyingjs/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 
-<img align="right" width="430px" src="https://user-images.githubusercontent.com/86134803/230806973-8e0f9f81-479c-4c40-a462-cb5e403e650e.svg"/>
-
 <h3>
   经常使用的编程语言
 </h3>
