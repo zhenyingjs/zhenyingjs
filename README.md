@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=document.wite('Hello+zhenyingjs');Welcome+to+zhenyingjs's+homepage!" alt="Typing SVG" />
   <br/>
-  <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/zhenyingjs/zhenyingjs/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 
 <h3>
